@@ -22,10 +22,8 @@ This project addresses these limitations by developing a **deep learning–based
 
 ```
 ├── Model/
-│   └── main.py                 # Deep learning model, training & evaluation pipeline
+│   └── code snippets                # Deep learning model
 │
-├── dataset/
-│   └── images_labels/          # Preprocessed and annotated paddy field dataset
 │
 ├── figures/
 │   ├── model_architecture.png  # Figure 4.2 – Deep learning architecture
