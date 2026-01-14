@@ -50,7 +50,6 @@ The proposed architecture follows a **U-Net–style encoder–decoder pipeline**
 
 ![Model Architecture](figures/model_architecture.png)
 
-*Figure 4.2: Architecture of the proposed deep learning model combining VGG19, skip connections, and Pix2Pix-based output refinement.*
 
 ---
 
@@ -76,7 +75,6 @@ Using a standardized external dataset enables fair benchmarking and reproducibil
 
 ![Result Figure 5.1](figures/result_figure_5_1.png)
 
-*Figure 5.1: Visual comparison of input images, ground truth masks, and predicted segmentation outputs. The model accurately localizes weed clusters with minimal false positives.*
 
 ---
 
@@ -84,7 +82,6 @@ Using a standardized external dataset enables fair benchmarking and reproducibil
 
 ![Result Figure 5.2](figures/result_figure_5_2.png)
 
-*Figure 5.2: Training and validation accuracy comparison between RMSprop and Adam optimizers. Adam demonstrates faster convergence and superior stability, achieving ~95% validation accuracy.*
 
 ---
 
