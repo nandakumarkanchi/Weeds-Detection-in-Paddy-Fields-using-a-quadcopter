@@ -56,7 +56,7 @@ The proposed architecture follows a **U-Net–style encoder–decoder pipeline**
 
 ## 📊 Dataset & Preprocessing
 
-* **Dataset Source:** Publicly available, pre-annotated paddy field weed dataset referenced in the project report fileciteturn0file0
+* **Dataset Source:** https://ieee-dataport.org/documents/paddy-crop-and-weeds-digital-image-dataset
 * **Data Ownership:** The dataset was **not collected by the authors**; it is reused strictly for academic and research purposes
 * **Classes:** Paddy crop, grass weeds, broad-leaved weeds, sedge weeds
 
